@@ -1,4 +1,4 @@
-# algoritmos-de-ordenacao
+# Algoritmos de ordenação
 Exercício da matéria MC102 - Algoritmos e Programação de Computadores na Unicamp.
 
 Links do enunciado:
